@@ -1,0 +1,4 @@
+repository "Fade In And Fade Out@openye1164@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
